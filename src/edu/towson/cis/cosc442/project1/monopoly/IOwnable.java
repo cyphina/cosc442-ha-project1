@@ -1,5 +1,6 @@
 package edu.towson.cis.cosc442.project1.monopoly;
 
+//This is an interface for all classes that can be owned by the player like items
 public interface IOwnable {
 
 	String getName();
